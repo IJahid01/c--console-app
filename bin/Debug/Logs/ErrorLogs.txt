@@ -1,0 +1,1 @@
+22/06/2025 15:32:45 > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: KeyAuth_Invalid
